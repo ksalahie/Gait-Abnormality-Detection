@@ -1,6 +1,6 @@
 /* 
 SAS Data Visualization 
-Visualizes the highly correlated variables extracted from the Random Forest model
+Visualizes the variables with the most correlation found from the Random Forest model
 */
 
 PROC IMPORT DATAFILE="../data/merged_gait_dataset.csv" 
