@@ -1,8 +1,6 @@
 # Gait Abnormality & Neurological Conditions Predictor
 
-This repository contains the data processing, predictive modeling, and visualization scripts for analyzing the correlation between gait abnormalities and neurological conditions (Parkinson's, Huntington's, ALS, Cerebral Palsy, Brain Injury, and healthy controls).
-
-Unlike prognostic models, this is a diagnostic/phenotyping tool utilizing multi-class continuous time-series biomechanical data.
+This project contains the data processing, predictive modeling, and visualization scripts for analyzing the correlation between gait abnormalities and neurological conditions (Parkinson's, Huntington's, ALS, Cerebral Palsy, Brain Injury, and healthy controls).
 
 ## Data Sources
 - PhysioNet Gait in Neurodegenerative Disease Database (v1.0.0)
