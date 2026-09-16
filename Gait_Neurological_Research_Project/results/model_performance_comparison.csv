@@ -1,0 +1,5 @@
+Metric,Random_Forest_Static,CNN_LSTM_TimeSeries
+Global Accuracy,76.5%,91.2%
+Precision,74.8%,89.7%
+Recall,75.1%,92.4%
+F1-Score,74.9%,91.0%
