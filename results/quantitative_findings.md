@@ -8,11 +8,11 @@ Initial analysis showed the following physical compensations:
 
 ## Feature Importance (Random Forest)
 When using a standard Random Forest classifier to select static features, the top 5 predictive variables based on Gini importance were:
-1. **Double Support Phase** - 0.284
+1. **Double Support Phase** - 0.284%
 2. **Stride Time Variability** - 0.215
 3. **Stance Interval Asymmetry** - 0.162
 4. **Gait Velocity** - 0.141 m/s
-5. **Swing Phase** - 0.118
+5. **Swing Phase** - 0.118%
 
 ## Predictive Model Performance Comparison
 Processing raw, continuous stride intervals via a CNN-LSTM architecture proved superior to finding static averages. Capturing the fractal dynamics and sequential deterioration over 60-stride windows allowed the deep learning approach to have significant performance gains over the baseline Random Forest ensemble:
